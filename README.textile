@@ -1,0 +1,2 @@
+Produce a list of MLB Teams based on mlb.com player search page:
+http://mlb.mlb.com/mlb/players/
